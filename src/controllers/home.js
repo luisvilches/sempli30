@@ -1,5 +1,8 @@
 module.exports = {
     get:function(req,res){
-        res.render('pages/main',{data:"hola"});
+        res.render('main',{
+            name:"Semplice",
+            slogan:"Framework FullStack"
+        });
     }
 }
