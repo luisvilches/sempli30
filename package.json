@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.1",
+    "change-case": "^3.0.2",
     "connect-multiparty": "^2.1.0",
     "cors": "^2.8.4",
     "dotenv": "^6.0.0",
